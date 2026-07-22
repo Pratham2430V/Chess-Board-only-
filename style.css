@@ -15,3 +15,20 @@ h2 {
   border: 2px solid black;
   text-align: center;
 }
+h3 {
+  background-color: #53cbf3;
+  padding: 10px;
+  border: solid black;
+  border-radius: 8px;
+  text-align: center;
+  margin-right: 35px;
+}
+a {
+  background-color: #ffd700;
+  padding: 7px;
+  border: 2px solid black;
+  border-radius: 8px;
+}
+ul {
+  list-style: none;
+}
